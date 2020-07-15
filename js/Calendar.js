@@ -1,5 +1,5 @@
 /*
-Assignment 2: Calendar (part 2) Calendar class JS
+ Calendar class JS
  AUTHOR: Saif Badr
          07/07/2020 
 */
