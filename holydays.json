@@ -1,0 +1,13 @@
+{
+    "2020": {
+        "1" : {"1" : "New Year"},
+        "2" : {"2": "Family Day"},
+        "4" : {"10": "Good Friday"},
+        "5" : {"18": "Victoria Day"},
+        "7" : {"1" : "Canada Day"},
+        "8" : {"3" : "Civic Day"},
+        "9" : {"7" : "Labour Day"},
+        "10" : {"12": "Thanksgiving"},
+        "12": {"25": "Christmas Day"}
+    }
+}
